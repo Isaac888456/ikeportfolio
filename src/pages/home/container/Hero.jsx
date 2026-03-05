@@ -20,7 +20,7 @@ const Hero = () => {
 
           <div className="mt-6 flex flex-wrap justify-center lg:justify-start gap-4">
             <a
-              href="https://wa.me/+233556971046"
+              href="https://wa.me/+233545426619"
               target="_blank"
               rel="noopener noreferrer"
               className="text-sm font-medium text-white bg-black dark:bg-white dark:text-black px-4 py-2 rounded-md transition-colors duration-300 hover:bg-gray-800 dark:hover:bg-gray-200"
